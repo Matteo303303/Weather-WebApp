@@ -1,8 +1,8 @@
-Weather WebApp
+# Weather WebApp
 
 This project is a simple Weather Web Application built using HTML, CSS, and JavaScript, with a Node.js backend. The application allows users to search for a city and displays real-time weather information alongside a background image of the searched location.
 
-Features
+## Features
 
 Weather Search: Enter a city name to retrieve current weather conditions.
 
@@ -12,7 +12,7 @@ API Integration: Uses external APIs to fetch weather data and location images.
 
 Responsive Design: Works on desktop and mobile devices.
 
-How It Works
+## How It Works
 
 Enter a city name in the search bar.
 
@@ -20,7 +20,7 @@ The app fetches real-time weather information via an external weather API.
 
 A dynamic background image of the city is displayed alongside the weather details.
 
-Technologies Used
+## Technologies Used
 
 HTML5: Structure of the web app
 
