@@ -1,4 +1,4 @@
-#Weather WebApp
+Weather WebApp
 
 This project is a simple Weather Web Application built using HTML, CSS, and JavaScript, with a Node.js backend. The application allows users to search for a city and displays real-time weather information alongside a background image of the searched location.
 
