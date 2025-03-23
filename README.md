@@ -30,7 +30,7 @@ JavaScript (ES6): Client-side interactivity
 
 Node.js: Backend server and API handling
 
-Installation and Usage
+## Installation and Usage
 
 Clone the repository:
 
@@ -40,7 +40,7 @@ Start the server:
 
 Open your browser and navigate to:
 
-API Setup
+## API Setup
 
 Ensure you have API keys for the following services:
 
@@ -52,7 +52,7 @@ Store the keys in an .env file:
 
 Project Structure
 
-Future Improvements
+## Future Improvements
 
 Add a weather forecast feature for upcoming days.
 
